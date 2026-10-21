@@ -1,4 +1,4 @@
-# 💸 Expense Tracker V2 — with ML Integration & Alexa+ Voice Command Support
+﻿# 💸 Expense Tracker V2 — with ML Integration & Alexa+ Voice Command Support
 
 > **A full-stack personal finance management system** built with Django, SQLite, Scikit-learn, and NLTK — now featuring a simulated **Alexa+ Voice Command API** for the **Amazon Developer Hackathon ("Build, Ship, Shape")**.
 
@@ -286,7 +286,7 @@ EXPENSE_TRACKER_V2_BY_SHA/
 ### 1. Clone the repository
 ```bash
 git clone <repo-url>
-cd "EXPENSE_TRACKER_V2_BY_SHA "
+cd "EXPENSE_TRACKER_V2_BY_SHA - Copy"
 ```
 
 ### 2. Create and activate a virtual environment
@@ -400,4 +400,6 @@ pip install -r requirements.txt
 Minor Project — Expense Tracker V2 with ML Integration  
 Amazon Developer Hackathon Submission — Alexa+ Track · October 2026
 
+---
 
+> *Built with Django · Scikit-learn · NLTK · Statsmodels · Celery · and a little bit of Alexa magic ✨*
